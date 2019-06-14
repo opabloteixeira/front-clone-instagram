@@ -1,6 +1,6 @@
-#Clone Instagram
+# Clone Instagram
 
-##Dependências
+## Dependências
 
 - `axios` Lida com o banco de dados
 - `react-router-dom` Lida com as rotas
