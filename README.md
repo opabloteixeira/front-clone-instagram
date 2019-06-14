@@ -1,4 +1,4 @@
-#RocketSocial
+#Clone Instagram
 
 ##Dependências
 
